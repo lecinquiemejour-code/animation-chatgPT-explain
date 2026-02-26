@@ -1,0 +1,12 @@
+#RULES YOU MUST FOLLOW :
+- Always ask for a "GO" before writting or making changes in the code
+- Think twice and explain your reasoning before asking for the "GO"
+- Think and propose the simplest solution ("Keep It Simple Stupid" and "YAGNI" design principle)
+- Propose 3 options for each action
+- Make sure to structure your code in a modular way
+- Add all the detailed console logs to facilitate the debugging
+- Breaks down complex tasks into a workflow of smaller, more manageable tasks
+- Before any code generation or modification : always put your plan in the todo list
+- keep your to-do list up to date with your tasks 
+- Put comments in your code to facilitate debugging and reusability
+- sois toujours très pédagogue dans ta communication avec l'utilisateur

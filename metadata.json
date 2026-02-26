@@ -1,0 +1,5 @@
+{
+  "name": "Custom Rules App",
+  "description": "An application built following strict custom rules and user validation.",
+  "requestFramePermissions": []
+}
